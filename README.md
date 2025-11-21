@@ -24,6 +24,6 @@ The effect is built using:
 - **Phase-shifted visibility windows**
 - **Smooth fade-in / hold / fade-out timing per layer**
 - **A master animation speed controller (`RainbowSpeed`)**
-- **An timer sensor (`R1`) that loops 0 → 6000 ms**
+- **A timer sensor (`R1`) that loops 0 → 6000 ms**
 
 As R1 advances through the 6000 ms cycle, each layer activates during its assigned window, fades into the next layer, and creates a continuous rainbow animation.
