@@ -1,5 +1,5 @@
-# TM-GamerStats-1080p
-RTSS / RivaTuner Overlays by TroyMetrics 👻
+<h1 align="center">TroyMetrics GamerStats 1080p</h1>
+<p align="center">RTSS / RivaTuner Overlays by TroyMetrics 👻</p>
 
 <p align="center">
   <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Preview.png?raw=true" alt="Preview">
