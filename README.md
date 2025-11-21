@@ -18,11 +18,6 @@ This repository includes everything needed to download, load, and test the anima
 
 ## ⚙️ How It Works
 
-The effect is built using:
-
-- **6 gradient layers L1 - L6**
-- **Phase-shifted visibility windows**
-- **Smooth fade-in / hold / fade-out timing per layer**
 - **A master animation speed controller (`RainbowSpeed`)**
 - **A timer sensor (`R1`) that loops 0 → 6000 ms**
 
