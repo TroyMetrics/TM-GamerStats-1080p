@@ -1,6 +1,10 @@
 # TM-GamerStats-1080p
 RTSS / RivaTuner Overlays by TroyMetrics 👻
 
+<p align="center">
+  <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Preview.png?raw=true" alt="Preview">
+</p>
+
 ### 🎥 Video Demo  
 ▶️ **[Watch the animated multi-color gradient demo on YouTube](https://www.youtube.com/watch?v=Diy7iYxleP8)**
 
