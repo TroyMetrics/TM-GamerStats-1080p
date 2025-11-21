@@ -13,7 +13,7 @@
   <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Preview.png?raw=true" alt="Preview">
 </p>
 
-This update introduces a fun experiment: a fully **multi-color animated gradient** running natively inside RTSS OverlayEditor — something most people assume *can’t* be done.
+This is an experimental overlay created to test whether a multi-color animated gradient can be achieved inside RTSS Overlay Editor,
 
 Turns out… **it can**. Sort of.. 😂
 
