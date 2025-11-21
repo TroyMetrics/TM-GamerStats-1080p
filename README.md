@@ -1,16 +1,17 @@
 <h1 align="center">TroyMetrics GamerStats 1080p</h1>
 <p align="center">RTSS / RivaTuner Overlays by TroyMetrics 👻</p>
 
+<div align="center">
+  <a href="https://youtu.be/Diy7iYxleP8">
+    <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Thumbnail_2.png?raw=true" width="850">
+  </a>
+</div>
+
+## 🌈 Animated Multi-Color Gradient (Experimental)
+
 <p align="center">
   <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Preview.png?raw=true" alt="Preview">
 </p>
-
-### 🎥 Video Demo  
-▶️ **[Watch the Animated Multi-Color Gradient Demo on YouTube](https://www.youtube.com/watch?v=Diy7iYxleP8)**
-
----
-
-## 🌈 Animated Multi-Color Gradient (Experimental)
 
 This update introduces a fun experiment: a fully **multi-color animated gradient** running natively inside RTSS OverlayEditor — something most people assume *can’t* be done.
 
