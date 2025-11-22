@@ -17,8 +17,6 @@ This is an experimental overlay created to test whether a multi-color animated g
 
 Turns out… **it can**. Sort of.. 😂
 
-v1.2 includes everything you need to download, load, and test the effect instantly.
-
 ---
 
 ## ⚙️ How It Works
