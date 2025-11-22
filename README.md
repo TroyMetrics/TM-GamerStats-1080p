@@ -137,7 +137,9 @@ A handy Color Reference Chart is included to guide your inner artist:
   <img src="https://github.com/TroyMetrics/Benchmark-Overlays/blob/main/assets/images/Color_Reference_Chart.png?raw=true">
 </div>  
 
-> 🧙‍♂️ Setting the **Color** sensor to 50 produces a **Cyan** accent color. 
+<div align="center">
+🧙‍♂️ Setting the Color sensor to 50 produces a Cyan accent color.
+</div>  
 
 # ❤️ A Note to the Community
 
