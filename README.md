@@ -44,6 +44,7 @@ The multi-color animation is built from **six stacked layers**, each referencing
 
 - **TM GamerStats Color-Mod 1080p.ovl**  
   A 2-Tone Color-Mod version that allows near-instant color theme changes through the **Color** sensor.
+  > 🧙‍♂️ **[Learn how to change the Color](#-color-mod-color-adjustment)**
 
 ---
 
