@@ -1,4 +1,4 @@
-<h1 align="center">TroyMetrics GamerStats 1080p</h1>
+<h1 align="center">🎮 TroyMetrics GamerStats 1080p</h1>
 <p align="center">RTSS / RivaTuner Overlays by TroyMetrics 👻</p>
 
 <div align="center">
