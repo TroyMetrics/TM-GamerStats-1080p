@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://youtu.be/Diy7iYxleP8">
-    <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Thumbnail_2.png?raw=true" width="850">
+    <img src="https://github.com/TroyMetrics/TM-GamerStats-1080p/blob/main/assets/Thumbnail_2.png?raw=true" width="500">
   </a>
 </div>
 
