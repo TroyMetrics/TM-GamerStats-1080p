@@ -47,6 +47,77 @@ The multi-color animation is built from **six stacked layers**, each referencing
 
 ---
 
+# 🛠️ Setup & Installation
+
+## ✅ Prerequisites
+
+Before setting up the TM GamerStats 1080p Overlay, make sure the following software is installed and properly configured:
+
+**✅ MSI Afterburner + RivaTuner Statistics Server (RTSS)**
+
+🔽 Download the latest BETA versions of **MSI Afterburner & RTSS** from [www.guru3d.com](https://www.guru3d.com/files-details/msi-afterburner-beta-download.html)
+> 📝 Note: The latest beta builds are often shared exclusively on the official Guru3D forums by the developer, Unwinder.
+- The MSI Afterburner installer includes **RivaTuner Statistics Server (RTSS)** as a bundle — this is required for the overlay to function.
+- During installation, ensure that **✅ RivaTuner Statistics Server** is left **check-marked.**
+- 
+---
+
+## 🛠️ Setup Instructions
+
+**1. 📦 Extract and Prepare Files**
+- Open the downloaded package: **`TM GamerStats 1080p`**
+- In a **new File Explorer window**, navigate to your **`C:\` drive**
+
+**2. 📁 Copy Overlay Files to RTSS**
+- **Drag and drop** (or **copy/paste**) the folder named **`Program Files (x86)`** from the downloaded package directly into your **`C:\` drive**
+- If prompted for admin permission:
+  - ✅ Check **"Do this for all current items"**
+  - ✅ Click **"Continue"**
+
+> This step places the overlay files in the correct RTSS directory.
+
+---
+
+**3. 🔤 Install the Required Font**
+- Navigate to:  
+  `C:\Program Files (x86)\RivaTuner Statistics Server\Fonts`
+- Double-click to install the fonts: **Armstrong.otf** and **Armstrong-Extrabold.otf**
+
+---
+
+**4. ⚙️ Enable OverlayEditor in RTSS**
+1. Launch **RivaTuner Statistics Server (RTSS)**  
+2. Click the **`[Setup]`** button  
+3. In the new window, go to the **Plugins** tab:
+   - ✅ Enable **`OverlayEditor.dll`**
+   - ✅ (Optional but recommended) Enable **`HotkeyHandler.dll`**
+     - Highlight **`HotkeyHandler.dll`** & Click **`[Setup]`** at the bottom to assign hotkeys:
+       - **Toggle On-Screen Display**: e.g., `Home`
+       - **Begin/End Recording**: e.g., `Page Up / Page Down`
+
+> ⚠️ If you’ve already assigned hotkeys in **MSI Afterburner**, you can skip this step or unassign them there. Only **one program** should manage OSD hotkeys to avoid conflicts.
+
+---
+
+**5. 🎛 Load the Overlay in OverlayEditor**
+1. With **OverlayEditor.dll** enabled, double-click it or click **`[Setup]`** after high-lighting it 
+2. In the Overlay Editor window:
+   - Go to the **`Layouts`** tab → Click **`Load`**
+   - Select one of the **`TM GamerStats`** presets → Click **`Open`**
+
+---
+
+**6. 🧠 Apply Master Settings (Important)**
+> 🧙‍♂️ This step only applies to presets that are not locked.
+- Since **RTSS Beta 7.3.2**, you can now use **`Ctrl + Shift + M`** to apply the overlay’s master layout settings. Otherwise, follow the steps below for manual application.
+- Back in the **Layouts** tab → Click **`Edit`**
+- In the **Overlay Properties** window:
+  - Click **`[Master Settings]`**
+  - Click **`Yes`** when prompted
+  - Click **`OK`** to finalize
+
+✅ Your overlay is now fully active and ready to use!
+
 ## 🎨 Color-Mod (Color Adjustment)
 
 The following settings apply specifically to these presets:  
