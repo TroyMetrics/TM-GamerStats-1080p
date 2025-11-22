@@ -60,7 +60,7 @@ Before setting up the TM GamerStats 1080p Overlay, make sure the following softw
 > 📝 Note: The latest beta builds are often shared exclusively on the official Guru3D forums by the developer, Unwinder.
 - The MSI Afterburner installer includes **RivaTuner Statistics Server (RTSS)** as a bundle — this is required for the overlay to function.
 - During installation, ensure that **✅ RivaTuner Statistics Server** is left **check-marked.**
-- 
+
 ---
 
 ## 🛠️ Setup Instructions
